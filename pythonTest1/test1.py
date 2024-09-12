@@ -41,7 +41,7 @@ def sub_task12():
     print(Task3_dictionary.get("city")) #Print the value of the "city" key using the get() method.
 
 Task4_fruits=["apple", "banana", "cherry", "apple", "banana", "apple"]
-
+#un comment pentru test
 
 if __name__ == "__main__":
     print("Welcome to the first test of the course!")
